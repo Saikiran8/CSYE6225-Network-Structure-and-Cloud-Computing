@@ -1,0 +1,6 @@
+[submodule "submodules/webapp"]
+	path = submodules/webapp
+	url = https://github.com/saikiranCloud/webapp.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/saikiranCloud/webapp.git
