@@ -4,3 +4,6 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/saikiranCloud/webapp.git
+[submodule "tf-gcp-infra"]
+	path = tf-gcp-infra
+	url = https://github.com/saikiranCloud/tf-gcp-infra.git
